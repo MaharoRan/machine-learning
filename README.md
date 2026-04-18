@@ -53,7 +53,7 @@ EDA : Analyse statistique, visualisations, corrélations, prise de décisions
 
 Preprocessing : Traitement des valeurs manquantes, encodage, standardisation
 
-Modélisation : Entraînement, Test, optimisation, comparaison
+Modélisation : Splitting, Entraînement, Test, optimisation, comparaison
 
 Évaluation : Métriques (RMSE, MAE, R², MSE), feature importance
 
